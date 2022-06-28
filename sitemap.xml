@@ -4,7 +4,16 @@
   <url>
     <loc>https://echoflove.github.io/posts/390f703b/</loc>
     
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://echoflove.github.io/posts/c82078be/</loc>
+    
+    <lastmod>2022-06-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>https://echoflove.github.io/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,14 +147,14 @@
   
   <url>
     <loc>https://echoflove.github.io/tags/%E5%8E%8B%E6%8A%91%E5%88%B0%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%86%E5%8F%91/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/tags/%E9%98%BF%E9%9B%AA%E5%90%83%E7%9A%84%E9%A5%AD%E9%A5%AD/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -154,42 +163,42 @@
   
   <url>
     <loc>https://echoflove.github.io/categories/Paradise-Lost/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/categories/%E6%BD%87%E6%B9%98%E4%B8%8B%E7%9A%84%E5%B9%BB%E5%BD%B1/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/categories/Paradise-Lost/Live-with-Dreams/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/categories/Paradise-Lost/Tales-of-Erin/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/categories/%E6%BD%87%E6%B9%98%E4%B8%8B%E7%9A%84%E5%B9%BB%E5%BD%B1/%E5%8E%8B%E6%8A%91%E5%88%B0%E6%9E%81%E8%87%B4%E7%9A%84%E7%88%86%E5%8F%91/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://echoflove.github.io/categories/%E9%98%BF%E9%9B%AA%E5%90%83%E7%9A%84%E9%A5%AD%E9%A5%AD/</loc>
-    <lastmod>2022-06-20</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
