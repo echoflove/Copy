@@ -5976,3 +5976,11 @@ table.test {
 .md {
   font-size: 18px;
 }
+.mingci {
+  border-bottom: 1px solid #acb6e5;
+  color: #acb6e5;
+}
+.zhongdian {
+  border-bottom: 1px solid #acb6e5;
+  color: #acb6e5;
+}
