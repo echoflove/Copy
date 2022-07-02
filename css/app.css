@@ -5809,24 +5809,9 @@ a {
 }
 .md a {
   color: #acb6e5;
-  border-bottom: 1px solid #86fde8;
+  border-bottom: 1px solid #acb6e5;
 }
 .md a:hover {
-  color: #86fde8;
-}
-a {
-  border: none;
-  color: currentColor;
-  outline: 0;
-  text-decoration: none;
-  overflow-wrap: break-word;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  transition: all 0.2s ease-in-out 0s;
-  cursor: pointer;
-  border-bottom: 1px solid #86fde8;
-}
-a:hover {
   color: #86fde8;
 }
 #main {
