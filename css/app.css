@@ -5708,6 +5708,13 @@ span.label {
   -webkit-animation-play-state: running;
           animation-play-state: running;
 }
+@font-face {
+  font-family: 'FOT-SkipStd-B';
+  src: url(".../source/_font/FOT-SkipStd-B.otf");
+}
+body {
+  font-family: 'FOT-SkipStd-B', 'Mulish', -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
 table.table-default {
   box-shadow: 0 0 10px #b6ffff inset;
   border-radius: 5px;
@@ -5809,7 +5816,6 @@ a {
 }
 .md a {
   color: #acb6e5;
-  border-bottom: 1px solid #acb6e5;
 }
 .md a:hover {
   color: #86fde8;
